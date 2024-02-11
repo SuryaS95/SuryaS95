@@ -2,7 +2,8 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning DevSecOps
 - 💞️ I’m looking to collaborate on any Open Source .net Projects
-- 📫 Reach me on Suryaganthan95@gmail.com
+- 📫 Reach me on letsgrowlifetogether@gmail.com
+
 
 <!---
 SuryaS95/SuryaS95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
