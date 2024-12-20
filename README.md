@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning DevSecOps
 - 💞️ I’m looking to collaborate on any Open Source .net Projects
-- 📫 Reach me on letsgrowlifetogether@gmail.com
+- 📫 Reach me on suryaganthan95@gmail.com
 
 
 <!---
